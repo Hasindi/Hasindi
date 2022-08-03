@@ -1,7 +1,7 @@
-<img align="left" alt="Coding" width="800" height="200" src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif">
+<img align="left" alt="Coding" width="800" height="250" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Chrome_10th_Keyword_Blog_Header_ANIMATED.gif">
 <br>
 <br>
-
+<br>
 <h1 align="center">Hiii👋, I'm Hasindi Mudithya 👩‍💻</h1>
 
 <div align="center"> 
