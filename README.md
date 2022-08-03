@@ -25,4 +25,4 @@
 <br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hasindi&show_icons=true&locale=en" alt="hasindi" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hasindi&" alt="hasindi" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hasindi&" alt="hasindi" /></p>
