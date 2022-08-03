@@ -1,7 +1,7 @@
 <h1 align="center">Hiii👋, I'm Hasindi Mudithya 👩‍💻</h1>
 
 <h2 align="center">A passionate Full Stack Developer from Sri Lanka</h2>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif">
+<img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasindi&label=Profile%20views&color=0e75b6&style=flat" alt="hasindi" /> </p>
 
@@ -24,5 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasindi&show_icons=true&locale=en&layout=compact" alt="hasindi" /></p>
 <br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hasindi&show_icons=true&locale=en" alt="hasindi" /></p>
-<br>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hasindi&" alt="hasindi" /></p>
+
+
