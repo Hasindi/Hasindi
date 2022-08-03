@@ -1,4 +1,5 @@
-<img align="left" alt="Coding" width="750" height="200" src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif">
+<img align="left" alt="Coding" width="800" height="200" src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif">
+<br>
 <br>
 
 <h1 align="center">Hiii👋, I'm Hasindi Mudithya 👩‍💻</h1>
