@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="[[[https://user-images.githubusercontent.com/101160373/182639902-f465de5b-abc8-401e-aa5b-286cb819dec5.png)](https://blog.google/outreach-initiatives/education/10thbirthday-chromebook-education/)](https://i.gifer.com/9Pf1.gif)](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)">
+
 <h1 align="center">Hiii👋, I'm Hasindi Mudithya 👩‍💻</h1>
 
 <div align="center"> 
