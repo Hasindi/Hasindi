@@ -1,7 +1,6 @@
 <img align="center" alt="Coding" width="800" height="250" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Chrome_10th_Keyword_Blog_Header_ANIMATED.gif">
 <br>
-<br>
-<br>
+
 <h1 align="center">Hiii👋, I'm Hasindi Mudithya 👩‍💻</h1>
 
 <div align="center"> 
