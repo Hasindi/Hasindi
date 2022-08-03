@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" height="200" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Chrome_10th_Keyword_Blog_Header_ANIMATED.gif">
+<img align="left" alt="Coding" width="800" height="200" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Chrome_10th_Keyword_Blog_Header_ANIMATED.gif">
 <br>
 
 <h1 align="center">Hiii👋, I'm Hasindi Mudithya 👩‍💻</h1>
