@@ -1,6 +1,12 @@
+
+
 <h1 align="center">Hiii👋, I'm Hasindi Mudithya 👩‍💻</h1>
 
-<h2 align="center">A passionate Full Stack Developer from Sri Lanka</h2>
+<div align="center"> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4000&color=ebbd34&background=EB00FF00&center=true&vCenter=true&width=600&lines=I'm++Full++Stack++developer++From++Sri++Lanka;Software+Designer;Developer;UI%2FUX++Designer;Gamer;Photographer)](https://git.io/typing-svg)
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasindi&label=Profile%20views&color=0e75b6&style=flat" alt="hasindi" /> </p>
