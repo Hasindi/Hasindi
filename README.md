@@ -1,4 +1,4 @@
-<img align="left" alt="Coding" width="750" height="200" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Chrome_10th_Keyword_Blog_Header_ANIMATED.gif">
+<img align="center" alt="Coding" width="800" height="250" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Chrome_10th_Keyword_Blog_Header_ANIMATED.gif">
 <br>
 <br>
 <br>
