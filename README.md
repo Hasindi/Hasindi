@@ -1,5 +1,5 @@
 <img align="left" alt="Coding" width="200" height="200" src="https://media.giphy.com/media/anywqD5u93KuCtpPfH/giphy.gif">
-<br><br><br>
+<br><br><br><br>
 <h1 align="center">Hiii👋, I'm Hasindi Mudithya 👩‍💻</h1>
 
 <div align="center"> 
