@@ -1,4 +1,4 @@
-<img align="left" alt="Coding" width="100" height="100" src="https://media.giphy.com/media/anywqD5u93KuCtpPfH/giphy.gif">
+<img align="left" alt="Coding" width="150" height="150" src="https://media.giphy.com/media/anywqD5u93KuCtpPfH/giphy.gif">
 <br>
 <h1 align="center">Hiii👋, I'm Hasindi Mudithya 👩‍💻</h1>
 
