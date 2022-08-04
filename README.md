@@ -1,8 +1,8 @@
 <img align="left" alt="Coding" width="200" height="200" src="https://media.giphy.com/media/anywqD5u93KuCtpPfH/giphy.gif">
 <br>
-<h1 align="right">Hiii👋, I'm Hasindi Mudithya 👩‍💻</h1>
+<h1 align="center">Hiii👋, I'm Hasindi Mudithya 👩‍💻</h1>
 
-<div align="right"> 
+<div align="center"> 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4000&color=ebbd34&background=EB00FF00&center=true&vCenter=true&width=600&lines=I'm++Full++Stack++developer++From++Sri++Lanka...;Software+Designer...;Developer...;UI%2FUX++Designer...;Photographer...)](https://git.io/typing-svg)
 </div>
