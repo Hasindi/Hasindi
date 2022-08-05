@@ -17,12 +17,16 @@
 - 👩‍💻 I’m studying at IJSE. 
 - 🌱 I’m currently learning Performence Testing.
 - 🗨️ Ask me about Java, HTML, CSS.
-- 👯 All my project are avilable at [HERE!](https://github.com/Hasindi)
+- 👯 All my project are avilable at [HERE!](https://github.com/Hasindi?tab=repositories)
 - 📫 How to reach me **hmudithya@gmail.com**
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+<a href="https://linkedin.com/in/hasindi-mudithya-953530245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasindi-mudithya-953530245" height="30" width="40" /></a>
+</p>
+
 <a href="https://linkedin.com/in/hasindi-mudithya-953530245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasindi-mudithya-953530245" height="30" width="40" /></a>
 </p>
 
